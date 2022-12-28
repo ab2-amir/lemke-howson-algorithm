@@ -53,7 +53,10 @@ get_Enash() qui renvoie les coordonnées de ces sommets avec normalisation<br>
 
 ## Main du programme :<br>
 On a A et B deux matrices de gains:<br>
-A = (3 1 1 3)<br> B = (1 3 3 1)<br>
+A = (3 1<br>
+&emsp; 1 3)<br> 
+B = (1 3<br>
+&emsp; 3 1)<br>
 P et Q deux polytopes :<br>
 P = {x ∈ 𝑅𝑚 / x ≥ 0, xB ≤ 1}<br>
 Q = {y ∈ 𝑅𝑚 / y ≥ 0, Ay ≤ 1}<br>
