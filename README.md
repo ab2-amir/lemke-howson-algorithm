@@ -1,4 +1,9 @@
 # Rapport TP Théorie des jeux Algorithme Lemke-Howson<br>
+### Réaliser par:<br>
+&emsp; AMIR Abderrahmane<br>
+&emsp; BELLACHE Adam<br>
+&emsp; DIAB Hicham<br>
+&emsp; BOUTICHE Ahmad<br>
 ## Introduction<br>
 L'algorithme de Lemke-Howson pour les jeux à deux matrices fournit à la fois une
 preuve élémentaire de l'existence de points d'équilibre et une méthode de calcul
