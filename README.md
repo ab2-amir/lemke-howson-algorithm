@@ -1,4 +1,4 @@
-# Rapport TP Théorie des jeux Algorithme Lemke-Howson<br>
+# Rapport TP Théorie des jeux - Algorithme Lemke-Howson<br>
 ### Réaliser par:<br>
 &emsp; AMIR Abderrahmane<br>
 &emsp; BELLACHE Adam<br>
